@@ -1,0 +1,23 @@
+.App {
+  /* text-align: center; */
+  width: 100%;
+ 
+}
+
+body{
+  font-family: serif;
+  width: 100%;
+  background-color: #add8e6;
+  margin: 0 ;
+  padding: 0;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
